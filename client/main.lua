@@ -1,3 +1,5 @@
+-- Created by LS Development | Join our Discord for Support | https://discord.gg/p8CwDUm7NB
+
 function notify(text) 
     BeginTextCommandDisplayHelp("STRING")
     AddTextComponentSubstringPlayerName(text)
