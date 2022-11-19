@@ -1,4 +1,4 @@
-Config = {
+Config = { -- Created by LS Development | Join our Discord for Support | https://discord.gg/p8CwDUm7NB
     {
         pos={x=-428.0, y=1132.0, z=325.8}, -- Position of the teleporter
         tpto={x=1968.0, y=3711.0, z=32.3}, -- Where you want the teleporter to take you
