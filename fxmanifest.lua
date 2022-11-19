@@ -1,3 +1,4 @@
+-- Created by LS Development | Join our Discord for Support | https://discord.gg/p8CwDUm7NB
 fx_version 'cerulean'
 games {"gta5"}
 
