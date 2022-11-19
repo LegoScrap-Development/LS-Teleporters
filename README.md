@@ -1,8 +1,4 @@
-Config breakdown.
+To support LS Devlopment, you can join our Discord.
+If you need support you can also join our Discord and we will provide support with setting up the script, and any errors or bugs.
 
-pos={x: float, y: float, z: float}, -- Position of the teleporter
-tpto={x: float, y: float, z: float}, -- Where you want the teleporter to take you
-placename = String, -- The destination name
-marker = int, -- Marker to show above the circle on the ground (https://docs.fivem.net/docs/game-references/markers/)
-scale = Float, -- Scale of the teleporter
-rgba = {r: float, g: float, b: float, o: float} -- Color of the teleporter
+Discord: https://discord.gg/p8CwDUm7NB
